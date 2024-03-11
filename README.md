@@ -1,11 +1,5 @@
-<div align="center">
+# Boka Qin
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BokaQin/BokaQin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BokaQin/BokaQin/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/BokaQin/BokaQin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+![](https://raw.githubusercontent.com/BokaQin/BokaQin/main/dist/github-contribution-grid-snake.svg)
 
-<!-- second form 第二个表格 -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
